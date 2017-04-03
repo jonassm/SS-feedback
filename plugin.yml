@@ -1,4 +1,7 @@
 name: SS-Feedback
 main: com.simplesurvival.feedback.feedback
-version: 1.0
-commands: /feedback
+version: 1.0.1
+commands:
+  feedback:
+    description: This sends the feedback link.
+    usage: /feedback
